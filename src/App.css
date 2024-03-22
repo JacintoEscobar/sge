@@ -1,4 +1,9 @@
 main {
   margin: 0px;
   padding: 0px;
+  height: 100vh;
+}
+
+#contenido {
+  margin: 0.5rem;
 }
