@@ -8,7 +8,7 @@ const Navegacion = ({ pagina }: NavegacionProps) => {
       <nav id="navegacion" aria-label="breadcrumb">
         <ol className="breadcrumb">
           <li className="breadcrumb-item" aria-current="page">
-            <Link to="/">Home</Link>
+            <Link to="/sge/">Home</Link>
           </li>
           <li className="breadcrumb-item active" aria-current="page">
             Gastos
