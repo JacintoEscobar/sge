@@ -9,8 +9,8 @@ function App() {
     <main>
       <BarraNavegacion />
       <Routes>
-        <Route path="/" Component={Inicio} />
-        <Route path="/gastos" Component={Gastos} />
+        <Route path="/sge/" Component={Inicio} />
+        <Route path="/sge/gastos" Component={Gastos} />
       </Routes>
     </main>
   );
